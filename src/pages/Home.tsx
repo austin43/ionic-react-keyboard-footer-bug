@@ -21,7 +21,7 @@ const Home: React.FC = () => {
       </IonContent>
       <IonFooter>
         <IonToolbar>
-          <IonInput type='text'/>
+          <IonInput type='text' placeholder='Enter text here'/>
         </IonToolbar>
       </IonFooter>
     </IonPage>
